@@ -1,28 +1,19 @@
 div.DoNotHaveJavaScript {
     text-align: center;
+    width: 100%;
 }
-img#Chrome {
+img#LeftBrowserIcon {
     margin-right: 50px;
     height: 50px;
     width: 50px;
 }
-img#Opera {
-    margin-right: 50px;
-    height: 50px;
-    width: 50px;
-}
-img#Edge {
-    margin-right: 50px;
-    height: 50px;
-    width: 50px;
-}
-img#Firefox {
+img#RightBrowserIcon {
     height: 50px;
     width: 50px;
 }
 strong#Warning {
     color: red;
 }
-strong#Tip1 {
+strong#ChangeBrowserPrompts {
     color: rgb(0, 247, 255);
 }
