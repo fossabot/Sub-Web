@@ -1,0 +1,13 @@
+div.ending {
+    text-align: center;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(21, 255, 0);
+}
+a:active {
+    color: black;
+}
