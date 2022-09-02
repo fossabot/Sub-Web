@@ -1,5 +1,7 @@
-div.ending {
+div.About {
     text-align: center;
+    height: auto;
+    width: 100%;
 }
 a {
     color: black;
